@@ -1,5 +1,9 @@
 # Updatable data files
 Data/
 
+# Base pack files (copied to output datapack folder)
+!PackBase/**
+
 # Output datapack folder
 SingleLoot/
+

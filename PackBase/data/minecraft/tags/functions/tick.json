@@ -1,0 +1,6 @@
+{
+  "values": [
+    "single_loot:apply_to_item_entities",
+    "single_loot:apply_to_players"
+  ]
+}

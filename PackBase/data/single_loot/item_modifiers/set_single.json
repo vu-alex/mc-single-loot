@@ -1,0 +1,15 @@
+[
+  {
+    "limit": {
+      "min": 0,
+      "max": 1
+    },
+    "function": "minecraft:limit_count"
+  },
+  {
+    "components": {
+      "max_stack_size": 1
+    },
+    "function": "minecraft:set_components"
+  }
+]
